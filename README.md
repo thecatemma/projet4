@@ -11,3 +11,6 @@ Controller Folder
 Modele Folder
 View Folder ?
 SQL Folder
+
+In Model:
+-Model.php
