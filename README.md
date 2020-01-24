@@ -20,4 +20,4 @@ In Model:
 
 -Model.php
 
--Article.php
+-Article.php: Articles, Comments, Users
