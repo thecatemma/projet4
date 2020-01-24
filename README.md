@@ -19,4 +19,5 @@ SQL Folder
 In Model:
 
 -Model.php
+
 -Article.php
