@@ -12,7 +12,7 @@ Controller Folder
 
 Modele Folder
 
-View Folder ? --> Article.php ?
+View Folder ? --> Article.php ? Template.php
 
 SQL Folder
 
