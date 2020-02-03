@@ -32,6 +32,8 @@ Modele Folder
 
 -ArticleManager.php
 
+-Comment.php
+
 View Folder ? --> Article.php ? Template.php ? viewArticle.php ?
 
 SQL Folder
