@@ -24,6 +24,8 @@ Controller Folder
 
 -ControllerIdentification
 
+-Routeur.php
+
 Modele Folder --> ArticleManager.php
 
 View Folder ? --> Article.php ? Template.php ? viewArticle.php ?
