@@ -14,6 +14,8 @@ Controller Folder
 
 -ControllerArticle
 
+-ControllerComment
+
 Modele Folder --> ArticleManager.php
 
 View Folder ? --> Article.php ? Template.php ? viewArticle.php ?
