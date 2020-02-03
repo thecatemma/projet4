@@ -18,6 +18,8 @@ Controller Folder
 
 -ControllerConnexion
 
+-ControllerContact
+
 Modele Folder --> ArticleManager.php
 
 View Folder ? --> Article.php ? Template.php ? viewArticle.php ?
