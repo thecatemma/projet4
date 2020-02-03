@@ -28,6 +28,8 @@ Controller Folder
 
 Modele Folder --> ArticleManager.php
 
+-Article.php
+
 View Folder ? --> Article.php ? Template.php ? viewArticle.php ?
 
 SQL Folder
