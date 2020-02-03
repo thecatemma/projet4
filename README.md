@@ -26,9 +26,11 @@ Controller Folder
 
 -Routeur.php
 
-Modele Folder --> ArticleManager.php
+Modele Folder
 
 -Article.php
+
+-ArticleManager.php
 
 View Folder ? --> Article.php ? Template.php ? viewArticle.php ?
 
