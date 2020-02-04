@@ -44,4 +44,5 @@ In Model:
 
 -Model.php
 
--Article.php: Articles, Comments, Users + Getters + Setters
+-Article.php: 
+Articles, Comments, Users + Getters + Setters
