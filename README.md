@@ -29,7 +29,6 @@ Controller Folder
 Modele Folder
 
 -Article.php
-
 -ArticleManager.php
 
 -Comment.php
