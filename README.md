@@ -48,4 +48,5 @@ In Model:
 Articles
 Comments
 Users
-Getters + Setters
+Getters
+Setters
