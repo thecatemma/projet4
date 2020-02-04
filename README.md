@@ -37,7 +37,7 @@ Modele Folder
 -CommentManager.php
 
 View Folder ? 
---> Article.php ? 
+Article.php ? 
 Template.php ? 
 viewArticle.php ?
 
