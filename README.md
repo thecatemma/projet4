@@ -10,14 +10,43 @@ Page Index.php
 
 Controller Folder
 
-Modele Folder --> ArticleManager.php
+-ControllerAdmin
 
-View Folder ? --> Article.php ? Template.php ? viewArticle.php ?
+-ControllerArticle
+
+-ControllerComment
+
+-ControllerConnexion
+
+-ControllerContact
+
+-ControllerHome
+
+-ControllerIdentification
+
+-Routeur.php
+
+Modele Folder
+
+-Article.php
+-ArticleManager.php
+
+-Comment.php
+-CommentManager.php
+
+View Folder ? 
+Article.php ? 
+Template.php ? 
+viewArticle.php ?
 
 SQL Folder
 
 In Model:
-
 -Model.php
 
--Article.php: Articles, Comments, Users + Getters + Setters
+-Article.php: 
+Articles
+Comments
+Users
+Getters
+Setters
