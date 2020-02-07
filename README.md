@@ -10,9 +10,9 @@ Page Index.php
 
 Controller Folder
 
-Modele Folder
+Modele Folder --> ArticleManager.php
 
-View Folder ?
+View Folder ? --> Article.php ? Template.php ? viewArticle.php ?
 
 SQL Folder
 
