@@ -36,7 +36,8 @@ Modele Folder
 
 View Folder ?
 
-Article.php ? 
+Article.php ?
+
 Template.php ? 
 viewArticle.php ?
 
