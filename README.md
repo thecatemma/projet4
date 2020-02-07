@@ -53,5 +53,6 @@ Articles
 Comments
 
 Users
+
 Getters
 Setters
