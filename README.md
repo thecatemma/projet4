@@ -47,6 +47,7 @@ In Model:
 -Article.php:
 
 Articles
+
 Comments
 Users
 Getters
