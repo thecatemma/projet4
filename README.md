@@ -6,7 +6,7 @@ Repository of 4th Project
 
 🗂 BDD with SQL
 
-Page Index.php
+📄 Page Index.php
 
 Controller Folder
 
