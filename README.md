@@ -32,7 +32,7 @@ Modele Folder 📁
 
 -ArticleManager.php 📃
 
--Comment.php
+-Comment.php 💬
 
 -CommentManager.php
 
