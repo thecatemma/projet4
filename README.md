@@ -28,7 +28,7 @@ Repository of 4th Project
 
 Modele Folder 📁
 
--Article.php
+-Article.php 📃
 
 -ArticleManager.php
 
