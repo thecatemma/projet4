@@ -60,4 +60,4 @@ Getters 🗝🔒
 
 Setters 🗝🔒
 
-Setters + Getters = provide access to our private properties
+Setters + Getters = provide access to our private properties 🔐
