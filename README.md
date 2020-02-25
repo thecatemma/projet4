@@ -56,7 +56,7 @@ Comments 💬
 
 Users 👤
 
-Getters
+Getters 🗝
 
 Setters
 
