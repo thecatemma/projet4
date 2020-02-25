@@ -50,7 +50,7 @@ In Model:
 
 -Article.php:
 
-Articles
+Articles 📃
 
 Comments
 
