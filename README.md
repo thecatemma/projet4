@@ -52,7 +52,7 @@ In Model:
 
 Articles 📃
 
-Comments
+Comments 💬
 
 Users
 
