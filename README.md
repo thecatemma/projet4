@@ -45,7 +45,7 @@ viewArticle.php ?
 
 SQL Folder
 
-In Model:
+In Model: 💻
 -Model.php
 
 -Article.php:
