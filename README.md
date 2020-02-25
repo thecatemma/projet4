@@ -54,7 +54,7 @@ Articles 📃
 
 Comments 💬
 
-Users
+Users 👤
 
 Getters
 
