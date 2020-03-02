@@ -14,7 +14,7 @@
 
 *ControllerArticle 📃
 
--ControllerComment 💬
+*ControllerComment 💬
 
 -ControllerConnexion 🌐
 
