@@ -12,7 +12,7 @@
 
 *ControllerAdmin 👤
 
--ControllerArticle 📃
+*ControllerArticle 📃
 
 -ControllerComment 💬
 
