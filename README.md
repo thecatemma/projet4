@@ -51,7 +51,7 @@ In Model: 💻
 
 -Article.php:
 
-Articles 📃
+Articless 📃
 
 Comments 💬
 
