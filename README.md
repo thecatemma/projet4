@@ -45,7 +45,7 @@ viewArticle.php ?
 
 SQL Folder 📒
 
-In Model: 💻
+In Model: The central component of the pattern.
 
 -Model.php
 
