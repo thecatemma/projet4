@@ -8,7 +8,7 @@
 
 📄 Page Index.php
 
-📁Controller Folder 💻 : different items
+📁Controller Folder 💻 : different items defined by "controllers"
 
 *ControllerAdmin 👤
 
