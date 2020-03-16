@@ -43,7 +43,7 @@ Article.php ? 📃
 Template.php ? 
 viewArticle.php ?
 
-SQL Folder 💻
+SQL Folder 📒
 
 In Model: 💻
 
