@@ -4,7 +4,7 @@
 
 🧚‍♀️ Model - 👀 View - 👔 Controller
 
-🗂 BDD with SQL "Start BDD"
+🗂 BDD with SQL : "Start BDD"
 
 📄 Page Index.php
 
