@@ -8,7 +8,7 @@
 
 📄 Page Index.php
 
-📁Controller Folder 💻 : different items defined by "controllers"
+📁Controller Folder 📁 : different items defined by "controllers"
 
 *ControllerAdmin 👤
 
@@ -26,7 +26,7 @@
 
 -Routeur.php 📡 : networking device that forwards data packets between computer networks
 
-📁Modele Folder 💻
+📁Modele Folder 📁
 
 -Article.php 📃
 
@@ -36,7 +36,7 @@
 
 -CommentManager.php 💬⚙️
 
-View Folder ? 📁
+View Folder ? 📁 Any representation of information such as a chart, diagram or table.
 
 Article.php ? 📃
 
