@@ -36,7 +36,7 @@
 
 -CommentManager.php 💬⚙️
 
-View Folder ? 📁 Any representation of information such as a chart, diagram or table.
+View Folder ? 📁 Any representation of information such as a chart, diagram or table. The view means presentation of the model in a particular format.
 
 Article.php ? 📃
 
