@@ -45,7 +45,7 @@ viewArticle.php ?
 
 SQL Folder 📒
 
-In Model: The central component of the pattern.
+In Model: The central component of the pattern. Responsible for managing the data of the application. It receives user input from the controller.
 
 -Model.php
 
