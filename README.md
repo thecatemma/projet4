@@ -20,7 +20,7 @@ Repository
 
 - ControllerContact 👥
 
--ControllerHome 🏠
+- ControllerHome 🏠
 
 -ControllerIdentification 🔖
 
