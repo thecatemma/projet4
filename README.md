@@ -51,7 +51,7 @@ In Model: The central component of the pattern. Responsible for managing the dat
 
 - Article.php:
 
-Articles 📃
+Articless 📃
 
 Comments 💬
 
