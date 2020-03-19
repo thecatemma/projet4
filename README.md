@@ -28,7 +28,7 @@ Repository
 
 📁Modele Folder 📁
 
--Article.php 📃
+- Article.php 📃
 
 -ArticleManager.php 📃
 
