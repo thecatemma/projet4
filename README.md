@@ -32,7 +32,7 @@ Repository
 
 - ArticleManager.php 📃
 
--Comment.php 💬
+- Comment.php 💬
 
 -CommentManager.php 💬⚙️
 
