@@ -49,7 +49,7 @@ In Model: The central component of the pattern. Responsible for managing the dat
 
 - Model.php
 
--Article.php:
+- Article.php:
 
 Articless 📃
 
