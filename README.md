@@ -30,7 +30,7 @@ Repository
 
 - Article.php 📃
 
--ArticleManager.php 📃
+- ArticleManager.php 📃
 
 -Comment.php 💬
 
