@@ -59,7 +59,7 @@ Users 👤
 
 - Getters 🗝🔒
 
-Setters 🗝🔒
+- Setters 🗝🔒
 
 Setters + Getters = provide access to our private properties 🔐
 
