@@ -2,7 +2,7 @@
 
 Repository
 
-🧚‍♀️ Model - 👀 View - 👔 Controller
+🧚‍♀️ Model 👀 View - 👔 Controller
 
 🗂 BDD with SQL : "Start BDD"
 
