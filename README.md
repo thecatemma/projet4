@@ -94,3 +94,5 @@ je n'aurais pas dû envoyer un message à qq 2h avant
 c'etait trop dangeureu
 
 il faut refaire bcp
+
+je veu que ma mamie visionne moi et ma reussite
