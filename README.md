@@ -98,3 +98,5 @@ il faut refaire bcp
 je veu que ma mamie visionne moi et ma reussite
 
 je ne peu pas sans
+
+lacharnement des autres
