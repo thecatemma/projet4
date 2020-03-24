@@ -82,3 +82,5 @@ N
 Changes
 
 Faites que Denise redescende du ciel et revienne parmi les vivants
+
+s'il vous plaît faites qu'elle ait la force
