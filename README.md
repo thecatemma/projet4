@@ -12,7 +12,7 @@ Repository
 
 *ControllerAdmin 👤
 
-* ControllerArticle 📃
+*ControllerArticle 📃
 
 * ControllerComment 💬
 
