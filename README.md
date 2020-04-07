@@ -14,7 +14,7 @@ Repository
 
 * ControllerArticle 📃
 
-*ControllerComment 💬
+* ControllerComment 💬
 
 - ControllerConnexion 🌐
 
