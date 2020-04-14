@@ -102,3 +102,5 @@ lacharnement des autres
 Il faut commiter le p5
 
 tout telecharger
+
+Merger les choses
