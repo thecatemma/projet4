@@ -98,3 +98,5 @@ je veu que ma mamie visionne moi et ma reussite
 je ne peu pas sans
 
 lacharnement des autres
+
+Il faut commiter le p5
