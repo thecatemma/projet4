@@ -41,7 +41,7 @@ _View Folder ? 📁 Any representation of information such as a chart, diagram o
 _Article.php ? 📃
 
 _Template.php ? 
-viewArticle.php ?
+_viewArticle.php ?
 
 SQL Folder 📒
 
