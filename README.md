@@ -38,7 +38,7 @@ Repository
 
 _View Folder ? 📁 Any representation of information such as a chart, diagram or table. The view means presentation of the model in a particular format.
 
-Article.php ? 📃
+_Article.php ? 📃
 
 Template.php ? 
 viewArticle.php ?
