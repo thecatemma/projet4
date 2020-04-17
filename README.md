@@ -10,7 +10,7 @@ Repository
 
 📁Controller Folder 📁 : different items defined by "controllers". The controller responds to the user input and performs interactions on the data model objects. The controller receives the input, optionally validates it and then passes the input to the model.
 
-*** ControllerAdmin 👤
+** ControllerAdmin 👤
 
 *** ControllerArticle 📃
 
