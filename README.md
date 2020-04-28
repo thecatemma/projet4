@@ -118,5 +118,3 @@ I should have taken holidays
 peinture
 
 peinture
-
-peinture
