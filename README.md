@@ -114,5 +114,3 @@ communicate
 even without grandma
 
 I should have taken holidays
-
-peinture
