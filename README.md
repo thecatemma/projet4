@@ -122,5 +122,3 @@ peinture
 peinture
 
 peinture
-
-peinture
